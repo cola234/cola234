@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Beiyue 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web3+Enthusiast;Crypto+Lover;Twitter+Blogger&font=Fira%20Code&center=true&width=380&height=50">
@@ -24,19 +24,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cola234&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cola234&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## Profile Views
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/cola234/count.svg" alt="Visitor Count" />
 </p>
 
 ## Connect with me
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cola234&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
